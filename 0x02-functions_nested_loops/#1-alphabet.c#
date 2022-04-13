@@ -1,0 +1,4 @@
+#include "main.h"
+
+/**
+ * prints_alphabets - prints the alphabets in lowercase, fline 
