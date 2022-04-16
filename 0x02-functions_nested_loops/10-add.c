@@ -6,7 +6,7 @@
  * @b: int type number
  * Return:0 or 1
  */
-void print_to_98(int n)
+int add(int a, int b)
 {
 return (a + b);
 }
