@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * imes_table - prints times table
+ * times_table - prints times table
  * Return:void
  */
 void times_table(void)
