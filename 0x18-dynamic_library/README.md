@@ -1,1 +1,1 @@
-C. Dynamic Library
+Dynamic Library for C
